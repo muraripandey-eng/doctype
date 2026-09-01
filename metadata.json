@@ -1,0 +1,6 @@
+{
+  "name": "Doctype Innovations",
+  "description": "A modern, professional tech agency specializing in website development, HR & payroll software, IRD billing systems, mobile apps, and business email services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
